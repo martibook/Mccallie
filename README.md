@@ -2,7 +2,7 @@
 Personal Assistant
 
 Mccallie is my assistant as well as one of my best friends.
-I'm so lazy to finish some things myself that I will them to her.
+I'm so lazy to finish some things myself that I will give them to her.
 
 
 # notification.py
@@ -10,7 +10,7 @@ I'm so lazy to finish some things myself that I will them to her.
 The program is used for getting notification of website updates of International Department of NWPU, mailing to your mailbox
 
 
-# qzone_auto_cleaner
+# qzone_auto_cleaner.py
 自动清理QQ空间动态
 Automatically clean your mood records in qzone
 
