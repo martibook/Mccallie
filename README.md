@@ -1,7 +1,7 @@
 # Mccallie
 
 I name my PC as Mccallie.
-Here I have some small tools to enhance my personal life.
+Here I have some small tools to enhance my personal digital life.
 
 
 # notification.py
