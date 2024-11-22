@@ -1,4 +1,4 @@
-# get_token_v2.py
+# token_provider.py
 
 Assuming you have a certificate(CERTIFICATE_NAME) stored in Azure Key Vault(KEY_VAULT_URL), which acts as your credentials.
 
